@@ -36,6 +36,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 array << element
-array.index(element)=aa
-array[aa]
+array.index(element)
 end
